@@ -1,0 +1,28 @@
+.nav-btn button{
+    margin-left: 10px;
+    width: 100px;
+}
+
+.login-form{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px;
+    background: #66ffe0;
+    border: 5px solid #00cca3;
+    border-radius: 0px 40px 0px 40px;
+}
+
+.form-btn{
+    margin-right: 10px;
+    background: #00cca3;
+    border: 2px solid #00cca3;
+    color: #fff;
+    min-width: 100px;
+    margin-bottom: -20px;
+}
+
+.form-btn:hover{
+    margin-right: 10px;
+    border: 2px solid #008066;
+    background: #00997a;
+}
